@@ -59,11 +59,8 @@
    ```bash
    pip install scikit-learn pandas numpy matplotlib seaborn optuna
    ```
-3. **Jupyter Notebook 실행**
-   ```bash
-   jupyter notebook
-   ```
-   원하는 `.ipynb` 파일을 열어 실습을 진행합니다.
+3. **Google Antigravity 사용**
+   Google Antigravity 툴을 활용하여 코드를 분석하고 실습을 진행합니다.
 
 ---
 📅 **Updated**: 2026-01-29
