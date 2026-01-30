@@ -3,6 +3,7 @@
 *.ubj
 *.csv
 *.json
+version.txt
 AutoGluon_medium/
 AutoGluon_best/
 spaceTitanic/* 
