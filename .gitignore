@@ -1,7 +1,7 @@
 .env
 *.pkl
 *.ubj
-submission*.csv
+*.csv
 AutoGluon_medium/
 AutoGluon_best/
 spaceTitanic/* 
