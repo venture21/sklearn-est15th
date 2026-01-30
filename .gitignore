@@ -2,6 +2,7 @@
 *.pkl
 *.ubj
 *.csv
+*.json
 AutoGluon_medium/
 AutoGluon_best/
 spaceTitanic/* 
